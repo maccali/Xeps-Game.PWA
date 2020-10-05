@@ -1,0 +1,3 @@
+interface IShapes {
+  initial: boolean
+}
