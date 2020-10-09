@@ -5,7 +5,7 @@ import ReactGA from 'react-ga'
 const siteName = 'Xeps the Mega'
 const title = 'Xeps the Game'
 const description = 'Game for Kidding alot'
-const imagemUrl = '/imgs/social.png'
+const imagemUrl = '/imgs/social.jpg'
 const siteUrl = 'https://xeps.pictu.one'
 
 function Meta() {
