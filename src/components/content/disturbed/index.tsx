@@ -153,7 +153,7 @@ function DisturbedContent() {
         // p.directionalLight(255, 0, 0, 0.25, 0.25, 0)
         // p.pointLight(0, 0, 255, locX, locY, 250)
 
-        shapes.forEach((item, index) => {
+        shapes.forEach((_item, index) => {
           if (shapes[index].initial) {
             shapes[index].cax = Math.random() * 3
             shapes[index].cay = Math.random() * 3

@@ -1,11 +1,11 @@
 {
-    "name": "Maccali",
-    "short_name": "Maccali",
-    "description": "Um programador muito simpático",
+    "name": "Xeps The Maga",
+    "short_name": "Xeps Game",
+    "description": "The game for CG Zoetion",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#2c2c7b",
-    "background_color": "#2c2c7b",
+    "theme_color": "#B15E6C",
+    "background_color": "#B15E6C",
     "start_url": "/",
     "icons": [
       {

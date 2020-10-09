@@ -21,7 +21,7 @@
 }
 
 *::-webkit-scrollbar-thumb {
-  background: #637fff;
+  background: #B15E6C;
 }
 
 body {
@@ -29,16 +29,4 @@ body {
   padding: 0;
   background-color: #ededed;
   overflow-x: hidden;
-}
-
-:root {
-  --github-color: #333;
-  --linkedin-color: #0e76a8;
-  --facebook-color: #3b5998;
-  --whatsapp-color: #25d366;
-  --instagram-color: #c13584;
-  --skype-color: #00aff0;
-  --discord-color: #7080ce;
-  --gitlab-color: #fc6d27;
-  --mail-color: #637fff;
 }
