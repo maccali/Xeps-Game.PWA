@@ -20,6 +20,7 @@ function Meta() {
     <Head>
       <meta charSet="utf-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+      <title>Xeps The Mega</title>
       {/* <meta
         name="google-site-verification"
         content="HAjlWQjWiA57CNVQ7noJE7H2TfpUTivWdUw5iMCeeXc"
